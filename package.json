@@ -12,7 +12,7 @@
   "author": "a2201921 <505575121@qq.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/a2201921/ts-axios.git"
+    "url": "https://github.com/a2201921/types-axios.git"
   },
   "license": "MIT",
   "engines": {
