@@ -36,25 +36,25 @@ Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | 11 ✔ |
 Using npm:
 
 ```bash
-$ npm install axios
+$ npm install types-axios
 ```
 
 Using bower:
 
 ```bash
-$ bower install axios
+$ bower install types-axios
 ```
 
 Using yarn:
 
 ```bash
-$ yarn add axios
+$ yarn add types-axios
 ```
 
 Using cdn:
 
 ```html
-<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="https://unpkg.com/types-axios/dist/axios.umd.js"></script>
 ```
 
 ## Example
