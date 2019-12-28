@@ -1,14 +1,11 @@
-# ts-axios
-axios基于TypeScript的实现,axios官网 http://www.axios-js.com/;
+# types-axios
+  ## axios官网 http://www.axios-js.com/;
+
+  使用typescript重构axios
 
 
-[![npm version](https://img.shields.io/npm/v/axios.svg?style=flat-square)](https://www.npmjs.org/package/axios)
-[![build status](https://img.shields.io/travis/axios/axios/master.svg?style=flat-square)](https://travis-ci.org/axios/axios)
-[![code coverage](https://img.shields.io/coveralls/mzabriskie/axios.svg?style=flat-square)](https://coveralls.io/r/mzabriskie/axios)
-[![install size](https://packagephobia.now.sh/badge?p=axios)](https://packagephobia.now.sh/result?p=axios)
-[![npm downloads](https://img.shields.io/npm/dm/axios.svg?style=flat-square)](http://npm-stat.com/charts.html?package=axios)
-[![gitter chat](https://img.shields.io/gitter/room/mzabriskie/axios.svg?style=flat-square)](https://gitter.im/mzabriskie/axios)
-[![code helpers](https://www.codetriage.com/axios/axios/badges/users.svg)](https://www.codetriage.com/axios/axios)
+[![npm version](https://img.shields.io/npm/v/types-axios)](https://www.npmjs.org/package/types-axios)
+[![install size](https://badgen.net/packagephobia/install/types-axios)](https://packagephobia.now.sh/result?p=types-axios)
 
 Promise based HTTP client for the browser and node.js
 
